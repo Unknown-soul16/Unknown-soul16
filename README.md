@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Unknown-soul16
 - 👀 I’m interested in many things,to name one is to explore things
-- 🌱 I’m currently learning arabic
-- 💞️ I’m looking to collaborate on learning to code
+- 🌱 I’m currently learning to code
+- 💞️ I’m looking for someone to guide me and hold me accountable for my coding
 - 📫 How to reach me you can reach me on insta @unknown____soul
 
 <!---
