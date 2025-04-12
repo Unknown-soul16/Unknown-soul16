@@ -2,7 +2,7 @@
 - 👀 I’m interested in many things,to name one is to explore things
 - 🌱 I’m currently learning to code
 
-### 🚀 Aspiring Data Analyst | AI/ML Enthusiast | Fresher in Tech
+### 🚀 Aspiring Data Analyst | AI/ML Enthusiast
 
 ---
 
